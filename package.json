@@ -1,8 +1,11 @@
 {
-  "name": "npm",
+  "name": "starbucks-jp-drink",
   "version": "1.0.0",
-  "description": "",
+  "description": "検索オプションを指定することで、日本のStarbucksのドリンクの検索ができるmoduleです。利用した場合のサンプルとして、現在の季節のおすすめドリンクを表示するCLIが同梱されています。",
   "main": "index.js",
+  "bin": {
+    "starbucks-jp-drink": "./index.js"
+  },
   "dependencies": {
     "abab": "^2.0.6",
     "acorn": "^8.8.0",
@@ -78,6 +81,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "monyatto",
+  "license": "MIT",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monyatto/starbucks-jp-drink.git"
+  },
+  "bugs": {
+    "url": "https://github.com/monyatto/starbucks-jp-drink/issues"
+  },
+  "homepage": "https://github.com/monyatto/starbucks-jp-drink#readme"
 }

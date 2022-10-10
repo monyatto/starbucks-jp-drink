@@ -14,6 +14,8 @@ npm i starbucks-jp-drink
 starbucks-jp-drink
 ```
 
+![画面収録-2022-10-10-9 32 43](https://user-images.githubusercontent.com/83024928/194786919-1fa736c2-3487-4ccb-a1fd-b7094dd88bc7.gif)
+
 ## 検索方法
 ```js
 const DrinkList = require('./lib/drinkList.js')

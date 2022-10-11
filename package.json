@@ -1,6 +1,6 @@
 {
   "name": "starbucks-jp-drink",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "検索オプションを指定することで、日本のStarbucksのドリンクの検索ができるmoduleです。利用した場合のサンプルとして、現在の季節のおすすめドリンクを表示するCLIが同梱されています。",
   "main": "index.js",
   "bin": {
@@ -55,7 +55,6 @@
     "safer-buffer": "^2.1.2",
     "saxes": "^6.0.0",
     "source-map": "^0.6.1",
-    "starbucks-jp-drink": "^1.0.1",
     "symbol-tree": "^3.2.4",
     "tough-cookie": "^4.1.2",
     "tr46": "^3.0.0",

@@ -2,9 +2,11 @@
 検索オプションを指定することで日本のStarbucksのドリンクの検索ができるmoduleです。
 利用した場合のサンプルとして現在の季節のおすすめドリンクを表示するアプリが同梱されています。
 
+※「STARBUCKS RESERVE® ROASTERY TOKYO」や「STARBUCKS Tea & Café」などの一部店舗限定メニューは検索対象外です。
+
 ## インストール
 ```shell
-npm i starbucks-jp-drink
+npm i -g starbucks-jp-drink
 ```
 
 ## サンプルプログラム

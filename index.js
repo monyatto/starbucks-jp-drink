@@ -14,7 +14,7 @@ async function main () {
   console.log(
 `----------------------
 現在の季節限定ドリンク
-----------------------å
+----------------------
 `)
 
   productName.forEach((item, i) => {

@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const DrinkList = require('./lib/drinkList.js')
 
 async function main () {
